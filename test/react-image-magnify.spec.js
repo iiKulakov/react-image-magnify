@@ -14,6 +14,7 @@ import * as utils from '../src/utils';
 describe('React Image Magnify', () => {
     const smallImage = {
         alt: 'baz',
+        title: 'bor',
         isFluidWidth: false,
         src: 'qux',
         srcSet: 'quux',
